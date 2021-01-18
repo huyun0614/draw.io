@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T12:34:33.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QRFJ5cTAcDYhW47wL41S" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T12:35:24.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1irHJuQTvs37KsCgMcj3" version="14.2.2" type="github">
   <diagram id="pF4SRi6WFVkdvoSuHAUC" name="Page-1">
     <mxGraphModel dx="884" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
             <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-1" value="无状态&lt;br&gt;（001）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-1" value="无状态&lt;br&gt;（001）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L0IP6Y8Qmht7rUSvjI6K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0IP6Y8Qmht7rUSvjI6K-2" target="L0IP6Y8Qmht7rUSvjI6K-4">
@@ -51,7 +51,7 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-2" value="偏向锁&lt;br&gt;（101）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-2" value="偏向锁&lt;br&gt;（101）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L0IP6Y8Qmht7rUSvjI6K-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L0IP6Y8Qmht7rUSvjI6K-3" target="L0IP6Y8Qmht7rUSvjI6K-4">
@@ -62,10 +62,10 @@
             <mxPoint x="-2" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-3" value="轻量级锁&lt;br&gt;（00）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-3" value="轻量级锁&lt;br&gt;（00）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="110" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-4" value="重量级锁&lt;br&gt;（00）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L0IP6Y8Qmht7rUSvjI6K-4" value="重量级锁&lt;br&gt;（00）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="110" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
